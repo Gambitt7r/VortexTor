@@ -1,12 +1,12 @@
-v beta 0.4.0
-echo "# VortexTor" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Gambitt7r/VortexTor.git
-git push -u origin main
-…or push an existing repository from the command line
-git remote add origin https://github.com/Gambitt7r/VortexTor.git
-git branch -M main
-git push -u origin main
+Note about Windows SmartScreen warning:
+You may see a warning like “Windows protected your PC” or “This app isn’t commonly downloaded” when running the installer.
+
+This is normal for new software and happens because the installer is not digitally signed yet.
+
+✅ To safely run VortexTor:
+
+Click More info.
+
+Click Run anyway.
+
+The installer is safe — it comes directly from the official VortexTor release.
